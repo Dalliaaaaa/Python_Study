@@ -1,2 +1,2 @@
 # Python_Study
-2022 SUMMER VACATION
+2022 SUMMER-autumn
