@@ -1,2 +1,1 @@
 # Python_Study
-2022 SUMMER-AUTUMN
